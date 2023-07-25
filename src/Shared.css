@@ -1,0 +1,11 @@
+.menu-flex{
+    display: flex;
+}
+
+.menu-flex :last-child{
+    flex: 1;
+}
+
+.menu-flex :first-child{
+    width: 250px;
+}
